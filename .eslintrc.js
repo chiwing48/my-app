@@ -20,5 +20,7 @@ module.exports = {
     'react'
   ],
   rules: {
+    semi: 'off',
+    'react/react-in-jsx-scope': 'off'
   }
 }
